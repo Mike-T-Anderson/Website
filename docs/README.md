@@ -10,7 +10,7 @@ Friendly Bot making lives easier!
 
 # Commands!
 
-##### who is
+##### __**who is**__
   - This gives you the ability to find out the name,email,phone and computer name of the user
   - How to use it: **who is** username
   - Example: **who is** anm

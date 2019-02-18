@@ -14,7 +14,7 @@ Friendly Bot making lives easier!
   - This gives you the ability to find out the name,email,phone and computer name of the user
   - How to use it: who is **username**
   - Example: who is **anm**
-  - 
+  
 **user**:
   - This gives you the ability to find out the username from someones persons name.
   - How to use it: user **name**

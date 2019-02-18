@@ -20,7 +20,7 @@ Friendly Bot making lives easier!
   - How to use it: user **name**
   - Example: user **Michael**
   
-  ##### findproject
+##### findproject
   - This will give you the folder location of the project and friendly bot will send you the link to the project drive.
   - How to use it: findproject **projectnumber**
   - Example: findproject **M12266**

@@ -43,4 +43,14 @@ Friendly Bot making lives easier!
  - How to use it **lockedout** 
 
   ![Alt Text](https://i.imgur.com/ktsqWTf.gif)
+  
+ # Quick Links
+ 
+## BST
+## CONNX
+## Insite
+## CONNX
+## Templates
+## Fact
+
 

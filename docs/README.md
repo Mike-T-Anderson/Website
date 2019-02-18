@@ -18,7 +18,15 @@ Friendly Bot making lives easier!
 ##### user
   - This gives you the ability to find out the username from someones persons name.
   - How to use it: user **name**
-  - Example: user **Michael** 
+  - Example: user **Michael**
+  
+  ##### findproject
+  - This will give you the folder location of the project and friendly bot will send you the link to the project drive.
+  - How to use it: findproject **projectnumber**
+  - Example: findproject **M12266**
+  
+  
+  
   
   
   

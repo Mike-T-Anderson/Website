@@ -28,9 +28,10 @@ Friendly Bot making lives easier!
   - This will give you the folder location of the project and friendly bot will send you the link to the project drive.
   - How to use it: **findproject** projectnumber
   - Example: **findproject** M12266
+  ![Alt Text](https://i.imgur.com/FtxaCTH.gif)
   
 ##### autodesk
  - This will tell you the name from the autodesk useraccount.
  - How to use it **autodesk** user
  - Example: **autodesk** manderson
- 
+ ![Alt Text](https://i.imgur.com/FAnj6e3.gif)

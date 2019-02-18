@@ -47,8 +47,8 @@ Friendly Bot making lives easier!
 ## file (for locked files)
  - This will tell you who is locking the file, you can enter the full filename or partial of the file name as the examples below;
  - How to use it **file** projectnumber filename
- -Example: **file** m12240 180192 
- -Example2: **file** m12240 180912_Feasibility_ISPT.pdf
+ - Example: **file** m12240 180192 
+ - Example2: **file** m12240 180912_Feasibility_ISPT.pdf
 
   ![Alt Text](https://i.imgur.com/DDXVFcN.gif)
   

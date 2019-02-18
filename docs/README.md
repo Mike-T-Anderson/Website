@@ -10,35 +10,35 @@ Friendly Bot making lives easier!
 
 # Commands!
 
-##### __**who is**__
+#### __**who is**__
   - This gives you the ability to find out the name,email,phone and computer name of the user
   - How to use it: **who is** username
   - Example: **who is** anm
 
   ![Alt Text](https://i.imgur.com/e7SUubX.gif)
   
-##### user
+#### user
   - This gives you the ability to find out the username from someones persons name.
   - How to use it: **user** name
   - Example: **user** Michael
 
   ![Alt Text](https://i.imgur.com/iJJjvXF.gif)
   
-##### findproject
+#### findproject
   - This will give you the folder location of the project and friendly bot will send you the link to the project drive.
   - How to use it: **findproject** projectnumber
   - Example: **findproject** M12266
 
   ![Alt Text](https://i.imgur.com/FtxaCTH.gif)
   
-##### autodesk
+### autodesk
  - This will tell you the name from the autodesk useraccount.
  - How to use it **autodesk** user
  - Example: **autodesk** manderson
 
  ![Alt Text](https://i.imgur.com/FAnj6e3.gif)
  
- ##### lockedout
+#### lockedout
  - This will unlock your user account when you are locked out .
  - How to use it **lockedout** 
 

@@ -1,2 +1,2 @@
-- [Getting Started](readme.md)
-- [Guide](readme.md)
+- [Getting Started](Readme.md)
+

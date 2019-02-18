@@ -21,6 +21,7 @@ Friendly Bot making lives easier!
   - This gives you the ability to find out the username from someones persons name.
   - How to use it: **user** name
   - Example: **user** Michael
+  ![Alt Text](https://i.imgur.com/iJJjvXF.gif)
   
 ##### findproject
   - This will give you the folder location of the project and friendly bot will send you the link to the project drive.

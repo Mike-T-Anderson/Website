@@ -42,5 +42,5 @@ Friendly Bot making lives easier!
  - This will unlock your user account when you are locked out .
  - How to use it **lockedout** 
 
- ![Alt Text](https://i.imgur.com/ktsqWTf.gif)
+  ![Alt Text](https://i.imgur.com/ktsqWTf.gif)
 

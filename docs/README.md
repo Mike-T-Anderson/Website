@@ -15,12 +15,13 @@ Friendly Bot making lives easier!
   - How to use it: **who is** username
   - Example: **who is** anm
 
-![Alt Text](https://i.imgur.com/e7SUubX.gif)
+  ![Alt Text](https://i.imgur.com/e7SUubX.gif)
   
 ##### user
   - This gives you the ability to find out the username from someones persons name.
   - How to use it: **user** name
   - Example: **user** Michael
+
   ![Alt Text](https://i.imgur.com/iJJjvXF.gif)
   
 ##### findproject

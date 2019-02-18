@@ -15,7 +15,7 @@ Friendly Bot making lives easier!
   - How to use it: **who is** username
   - Example: **who is** anm
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://i.imgur.com/e7SUubX.gifv)
   
 ##### user
   - This gives you the ability to find out the username from someones persons name.

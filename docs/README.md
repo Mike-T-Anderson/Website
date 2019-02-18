@@ -15,7 +15,7 @@ Friendly Bot making lives easier!
   - How to use it: **who is** username
   - Example: **who is** anm
   
-  [![Build Status](https://i.imgur.com/e7SUubX.gifv)
+  ![](https://i.imgur.com/e7SUubX.gifv)
   
 ##### user
   - This gives you the ability to find out the username from someones persons name.

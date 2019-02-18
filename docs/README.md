@@ -37,3 +37,10 @@ Friendly Bot making lives easier!
  - Example: **autodesk** manderson
 
  ![Alt Text](https://i.imgur.com/FAnj6e3.gif)
+ 
+ ##### lockedout
+ - This will unlock your user account when you are locked out .
+ - How to use it **lockedout** 
+
+ ![Alt Text](https://i.imgur.com/ktsqWTf.gif)
+

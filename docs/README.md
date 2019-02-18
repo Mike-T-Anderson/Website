@@ -10,12 +10,12 @@ Friendly Bot making lives easier!
 
 # Features!
 
-**who is**:
+##### who is
   - This gives you the ability to find out the name,email,phone and computer name of the user
   - How to use it: who is **username**
   - Example: who is **anm**
   
-**user**:
+##### user
   - This gives you the ability to find out the username from someones persons name.
   - How to use it: user **name**
   - Example: user **Michael** 

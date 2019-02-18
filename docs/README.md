@@ -8,7 +8,7 @@ Friendly Bot making lives easier!
   - Quick information
   - and more
 
-# Features!
+# Commands!
 
 ##### who is
   - This gives you the ability to find out the name,email,phone and computer name of the user

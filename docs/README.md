@@ -1,6 +1,6 @@
 # Friendly Bot Guide
 
-[![Build Status](https://i.imgur.com/uATjnEv.png)](sip:friendlybot@batessmart.com)
+[![Build Status](https://i.imgur.com/hbHQYGA.png)](sip:friendlybot@batessmart.com)
 
 Friendly Bot making lives easier!
 

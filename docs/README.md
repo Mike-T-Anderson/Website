@@ -60,5 +60,6 @@ Friendly Bot making lives easier!
 ## CONNX
 ## Templates
 ## Fact
+## Weather
 
 

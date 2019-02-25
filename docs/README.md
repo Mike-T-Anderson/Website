@@ -52,6 +52,13 @@ Friendly Bot making lives easier!
 
   ![Alt Text](https://i.imgur.com/DDXVFcN.gif)
   
+## Meetingrooms (find free meeting room)
+ - This will tell you if the meeting room is busy or free within the next hour, if meeting room is not shown meeting room is free
+ - How to use it **meeting room** 
+ - Example: **meetingroom**
+ 
+ ![Alt Text](https://i.imgur.com/ilgD70h.gif)
+  
  # Quick Links
  
 ## BST

@@ -1,4 +1,4 @@
-﻿Number,Package
+Number,Package
 1,3D MAX 2019
 2,3DS MAX 2019.3 UPDATE (ONLY)
 3,7-Zip 19.00
